@@ -8,7 +8,7 @@ Une bibliothèque de plusieurs exemples des bases d'un site web
 
 # Fabriqué avec
 
-Template pris sur Codepen,
+Template pris sur Codepen
 https://codepen.io/maya-shankar/pen/GqNLxb
 
 font sur google font
@@ -17,6 +17,7 @@ https://fonts.google.com/specimen/Satisfy?sidebar.open=true&selection.family=Sat
 # Programmation
 
 * Dejan Simonovski ID492
+
 
 # Remarques
 
